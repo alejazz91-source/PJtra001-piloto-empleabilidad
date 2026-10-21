@@ -6,4 +6,4 @@
 - Criterio: Solo se publicarán documentos y evidencias sin datos personales
 - Estado: Decisión de configuración tomada durante demostración
 - Relación: ACT-01 Y ACT-03
-- 
+  
