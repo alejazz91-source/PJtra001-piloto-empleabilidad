@@ -17,3 +17,4 @@ Yency Muñoz Foronda: Monitoreo y evaluación de resultados.
 - `02_evidencias/`: productos y evidencias autorizadas que ya existan.
 - `03_seguimiento/`: acuerdos, decisiones y reportes de avance.
  
+## Protección de datos
